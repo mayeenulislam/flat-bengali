@@ -1,0 +1,32 @@
+/*
+| Flat Bengali Styles
+| The intention was to override necessary font with a Bengali font.
+*/
+
+@font-face {
+    font-family: "Siyam Rupali";
+    src: url("fonts/SiyamRupali.eot?version=1.070");
+    src: local("Siyam Rupali"), url("fonts/SiyamRupali.woff?version=1.070") format("woff"),
+        url("fonts/SiyamRupali.ttf?version=1.070") format("truetype");
+    font-style: normal;
+}
+
+html,
+body,
+.hentry .entry-title,
+#masthead .site-description,
+.hentry .entry-meta,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.single .post-title {
+    font-family: "Siyam Rupali" !important;
+    line-height: 1.5;
+}
+
+#masthead .site-title {
+    font-family: yesteryear !important;
+}

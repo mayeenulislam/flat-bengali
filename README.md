@@ -1,2 +1,2 @@
-# Flat Bengali
-Bengali settings for WordPress theme Flat. I loved <a href="https://wordpress.org/support/theme/flat" rel="nofollow">Flat WordPress theme</a>, and used in one of my blog. If you want to write Bengali blogs using Flat theme, you can create a plugin of your own, and these code will help you a lot. :)
+# Flat (Bengali)
+Bengali settings for the WordPress theme Flat. I love <a href="https://wordpress.org/themes/flat/" rel="nofollow noopener noreferrer" target="_blank">Flat WordPress theme</a>, and used in one of my blogs. If you want to write Bengali blogs using Flat theme, you can create a plugin of your own, and these code will help you a lot. :)
